@@ -1,0 +1,140 @@
+.main{
+    width: 1000px;
+    height: 540px;
+    background: #f44336;
+}
+.row1{
+    width: 1000px;
+    height: 100px  ;
+    background: #E91E63;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 25px;
+}
+.row2{
+    width: 1000px ;
+    height: 40px ;
+    background-color:  #FFFF00 ;
+}
+.row2-col1{
+    width: 200px;
+    height: 40px ;
+    background-color: aqua;
+    float: left;
+    text-align:center;
+    padding-top:17px;
+}
+.row2-col2{
+    width: 200px;
+    height: 40px ;
+    background-color:#FF00FF;
+    float: left;
+    text-align:center;
+    padding-top:17px;
+}
+.row2-col3{
+    width: 200px;
+    height: 40px ;
+    background-color: #800000;
+    float: left;
+    text-align:center;
+    padding-top:17px;
+}
+.row2-col4{
+    width: 200px;
+    height: 40px ;
+    background-color:#808000;
+    float: left;
+    text-align:center;
+    padding-top:17px;
+}
+.row2-col5{
+    width: 200px;
+    height: 40px ;
+    background-color: #A52A2A;
+    float: left;
+    text-align:center;
+    padding-top:17px;
+}
+.row3{
+    width: 1000px ;
+    height: 200px ;
+    background-color: #E91E63;
+}
+.row3-col1{
+    width: 250px ;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+
+}
+.row3-col2{
+    width: 750px ;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+.row3-col1-row1{
+    width :250px ;
+    height:40px;
+    background-color:green ;
+}
+.row3-col1-row2{
+    width :250px ;
+    height:40px;
+    background-color:rgb(70, 0, 128) ;
+}
+.row3-col1-row3{
+    width :250px ;
+    height:40px;
+    background-color:rgb(128, 107, 0) ;
+}
+.row3-col1-row4{
+    width :250px ;
+    height:40px;
+    background-color:rgb(128, 0, 70) ;
+}
+.row3-col1-row5{
+    width :250px ;
+    height:40px;
+    background-color:rgb(0, 126, 128) ;
+}
+.row4{
+    width: 1000px;
+    height: 50px ;
+    background-color: blue;
+    color: white;
+
+    font-size: 30px ;
+    text-align: center;
+}
+.row5{
+    width: 1000px;
+    height: 100px ;
+    background-color: yellow;
+}
+.row5-col1{
+    width: 333px;
+    height: 100px ;
+    background-color: red ;
+    float: left;
+
+}.row5-col2{
+    width: 333px;
+    height: 100px ;
+    background-color: green;
+    float: left;
+
+}.row5-col3{
+    width: 333px;
+    height: 100px ;
+    background-color: aqua;
+    float: left;
+
+} 
+.row6{
+    width: 1000px;
+    height: 50px ;
+    text-align: center;
+}
